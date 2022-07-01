@@ -1,0 +1,22 @@
+{
+  "name": "builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prebuild-swarm": "prebuild-swarm-builder fc1d0b5976348707c43bc4f93a47d810b0e8d9a95a5da9381d8446187b923183 mafintosh/libudx"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mafintosh/builder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mafintosh/builder/issues"
+  },
+  "homepage": "https://github.com/mafintosh/builder#readme",
+  "dependencies": {
+    "prebuild-swarm": "^1.0.5"
+  }
+}
